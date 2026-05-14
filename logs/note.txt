@@ -1,0 +1,2 @@
+folder logs
+Logi z wykonania skryptów – kluczowe do weryfikacji błędów i ostrzeżeń (tzw. traceability).
