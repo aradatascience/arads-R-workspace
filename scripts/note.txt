@@ -1,2 +1,0 @@
-folder scripts
-Skrypty R (np. 01_admiral_adsl.R).
