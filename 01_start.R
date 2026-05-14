@@ -27,7 +27,6 @@ pak::pkg_install("pharmaverse/sdtm.oak")
 # restart cmd + shift + 0
 renv::activate()
 
-
 # załadowanie bibliotek ---------------------------------------------------
 library(tidyverse)
 library(admiral)
