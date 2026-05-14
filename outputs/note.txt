@@ -1,0 +1,2 @@
+folder outputs
+Gotowe tabele (TFLs) wygenerowane przez gtsummary lub Tplyr.
